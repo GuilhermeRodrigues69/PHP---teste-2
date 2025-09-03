@@ -1,5 +1,12 @@
 <?php
 require '../vendor/autoload.php';
+include 'EX1AULA3/repeticao.php';
+include 'EX2AULA3/repeticao2.php';
+include 'EX1AULA4/tabuada.php';
+include 'EX2AULA4/pares.php';
+include 'EX3AULA4/foreach.php';
+include 'EX4AULA4/teste.php';
+
 
 use Application\Hello;
 ?>
@@ -10,8 +17,8 @@ use Application\Hello;
     <link href="/css/default.css" rel="stylesheet" />
     <title>Document</title>
 </head>
-<body>
+<!-- <body>
     <h1>PHP & Mysql</h1>
     <p><?= Hello::message() ?></p>
-</body>
+</body> -->
 </html>

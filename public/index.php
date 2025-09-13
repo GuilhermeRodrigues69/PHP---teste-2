@@ -6,6 +6,7 @@ include 'EX1AULA4/tabuada.php';
 include 'EX2AULA4/pares.php';
 include 'EX3AULA4/foreach.php';
 include 'EX4AULA4/teste.php';
+include 'FUNCOES/EX1/nomecompleto.php';
 
 
 use Application\Hello;

@@ -35,7 +35,7 @@
             $media = $notatotal / $quantidadealunos;
         }
 
-        echo "<br><br> Média da turma: " . number_format($media, 2) . "";
+        echo "<br> Média da turma: " . number_format($media, 2) . "";
        
     ?>
 </body>
